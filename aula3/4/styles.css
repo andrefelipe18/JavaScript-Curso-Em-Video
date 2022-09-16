@@ -1,0 +1,31 @@
+html, body{
+    
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: gray;
+    position: relative;
+}
+.img{
+
+    margin-left: 50px;
+    width: 60px;
+}
+.menu ul {
+    list-style: none;
+
+}    
+.menu li {
+    display: inline;
+    cursor: pointer;
+    padding: 8px;
+}
+.menu {
+  position: absolute;
+  right: 50px;
+  bottom: 30px;
+  top: 5px;
+
+}
